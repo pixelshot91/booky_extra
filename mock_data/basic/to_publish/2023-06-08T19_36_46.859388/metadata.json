@@ -1,7 +1,1 @@
-{
-  "weightGrams": 490,
-  "itemState": "good",
-  "isbns": [
-    "9782226016775"
-  ]
-}
+{"weight_grams":490,"item_state":"Good","books":[{"isbn":"9782226016775","title":null,"authors":[],"blurb":null,"keywords":[],"price_cent":null}]}
