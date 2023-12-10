@@ -84,7 +84,7 @@
       "mixers": 0,
       "monitoring_type": 0,
       "muted": false,
-      "name": "barcode",
+      "name": "barcode2",
       "prev_ver": 486539266,
       "private_settings": {},
       "push-to-mute": false,
@@ -107,9 +107,9 @@
       "hotkeys": {
         "OBSBasic.SelectScene": [],
         "libobs.hide_scene_item.B": [],
-        "libobs.hide_scene_item.barcode": [],
+        "libobs.hide_scene_item.barcode2": [],
         "libobs.show_scene_item.B": [],
-        "libobs.show_scene_item.barcode": []
+        "libobs.show_scene_item.barcode2": []
       },
       "id": "scene",
       "mixers": 0,
@@ -183,16 +183,16 @@
             },
             "id": 2,
             "locked": false,
-            "name": "barcode",
+            "name": "barcode2",
             "pos": {
-              "x": 506.252685546875,
-              "y": 493.0
+              "x": 486.0,
+              "y": -82.0
             },
             "private_settings": {},
-            "rot": 7.868001461029053,
+            "rot": 0.0,
             "scale": {
-              "y": 0.3,
-              "x": 0.3
+              "x": 0.44999998807907104,
+              "y": 0.44999998807907104
             },
             "scale_filter": "disable",
             "show_transition": {
